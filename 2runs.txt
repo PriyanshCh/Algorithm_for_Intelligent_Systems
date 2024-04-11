@@ -1,0 +1,18 @@
+This is the output of simulated annealing - Sophisticated Search
+
+The cost of best Solution 403
+The path of best solution [1, 2, 3, 0]
+Value of MEB count is  4
+********** %s seconds********* 0.0020012855529785156
+This is the output of simulated annealing - Sophisticated Search
+
+The cost of best Solution 403
+The path of best solution [2, 0, 3, 1]
+Value of MEB count is  3
+********** %s seconds********* 0.009139060974121094
+This is the output of randomized hill climbing - Simple Search
+
+This is the output of randomized hill climbing - Simple Search
+
+This is the output of randomized hill climbing - Simple Search
+
